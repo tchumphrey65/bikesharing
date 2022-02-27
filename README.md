@@ -102,6 +102,8 @@ Finally we analyzed the bike usage and maintenance demand to understand the inve
 
 The analysis shows that male subscribers are driving the use of citiBikes in NYC during business hours.  There are many bikes that see little to no use and that could be an opportunity to lower start up costs and focus on males between 20-40 years old.  Most custoomer and subscriber analysis would help define our initial target customer.  The connection of citiBike hub locations to public transportaion would be a recommended analysis.  The usage shows peak demand on weekdays at two times, the morning and evening commute.  There may be growth opportunites in areas of recreational use and with women.  To launch we clearly can define what the use characteristics are of the NYC customers and could model in other cities.
 
+'https://public.tableau.com/javascripts/api/viz_v1.js'
+
 
 
 
